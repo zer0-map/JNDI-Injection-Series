@@ -1,3 +1,9 @@
-JNDI (Java Naming and Directory Interface) is a Java API that allows clients to discover and look up data and objects via a name. It can be used to obtain naming and directory services from several service providers where these objects are stored: LDAP(Lightweight Directory Access Protocol), and  Java RMI registry (Remote Method Invocation) and etc. . 
+This repo is for the demos in a JNDI injection series:
 
-JNDI is a simple Java API that takes just one string parameter, but if the parameter is tainted by an attacker, a victim application can be connected to a malicious LDAP/RMI server and execute arbitrary command.
+https://medium.com/bugbountywriteup/jndi-injection-series-rmi-vector-1-31044f782daa
+
+https://medium.com/bugbountywriteup/jndi-injection-series-rmi-vector-dynamic-class-loading-from-remote-url-28dcbf9cee27
+
+https://medium.com/@yany.dong/jndi-injection-series-rmi-vector-insecure-deserialization-9b7a4b524d1d
+
+More to come.... 
