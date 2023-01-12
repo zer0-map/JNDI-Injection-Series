@@ -6,6 +6,7 @@ https://medium.com/bugbountywriteup/jndi-injection-series-rmi-vector-dynamic-cla
 
 https://medium.com/bugbountywriteup/jndi-injection-series-rmi-vector-insecure-deserialization-9b7a4b524d1d
 
+https://medium.com/@yany.dong/jndi-injection-series-rmi-vector-the-final-piece-of-the-puzzle-b6a65c4ab330
 
 
 
